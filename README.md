@@ -25,7 +25,7 @@ I am a dedicated web developer with a strong background in both backend and fron
 
 ### Projects
 
-#### [Beancounter](https://github.com/siddharthjena/Beancounter)
+#### [Beancounter](https://github.com/siddharthjena/Finance-Manager-Webapp)
 - **Technologies:** Python, Django, HTML5, CSS3, MySQL
 - **Description:** 
   - Designed a web application that allows users to track their income, daily expenses, and view their remaining balance securely through unique login credentials.
