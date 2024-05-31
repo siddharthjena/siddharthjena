@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Siddharth Jena
+# Hi there 👋, I'm Siddharth Sankar Jena
 
 ### Web Developer | Python & PHP | Django Framework | MySQL | HTML5 | CSS3 | JavaScript
 
