@@ -22,6 +22,7 @@ I am a dedicated web developer with a strong background in both backend and fron
   - HTML5
   - CSS3 (Bootstrap)
   - JavaScript
+  - React.js
 
 ### Projects
 
