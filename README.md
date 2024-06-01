@@ -26,6 +26,15 @@ I am a dedicated web developer with a strong background in both backend and fron
 
 ### Projects
 
+#### [Clinic Management System](https://github.com/siddharthjena/Clinic-WebApp)
+- **Technologies:** Python, Django, HTML5, CSS3, MySQL
+- **Description:** 
+  - Developed a comprehensive clinic management system to streamline operations for healthcare providers.
+  - Patients can book appointments, access appointment history, and securely interact with doctors.
+  - Implemented robust authentication features and data security measures for patient and doctor interactions.
+  - Leveraged Django's ORM for efficient database management and Jinja2 for dynamic template rendering.
+
+
 #### [Beancounter](https://github.com/siddharthjena/Finance-Manager-Webapp)
 - **Technologies:** Python, Django, HTML5, CSS3, MySQL
 - **Description:** 
