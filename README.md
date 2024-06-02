@@ -23,7 +23,7 @@ I am a dedicated web developer with a strong background in both backend and fron
   - CSS3 (Bootstrap)
   - JavaScript
 
-### Work Experience
+### Internships & Experience
 
 #### Full-stack Web Developer (CodeDais) - August 2023 to April 2024
 - Created projects including a Clinic Management System and a Blogging Application using Python, Django for backend, and HTML5, CSS3, Bootstrap for frontend.
