@@ -22,7 +22,16 @@ I am a dedicated web developer with a strong background in both backend and fron
   - HTML5
   - CSS3 (Bootstrap)
   - JavaScript
-  - React.js
+
+### Work Experience
+
+#### Full-stack Web Developer (CodeDais) - August 2023 to April 2024
+- Created projects including a Clinic Management System and a Blogging Application using Python, Django for backend, and HTML5, CSS3, Bootstrap for frontend.
+- Learned web development using Django and contributed to projects by writing form validation logic, creating views functions for specific purposes, and developing models for users to store their data, assisting senior developers in enhancing project functionality.
+
+#### ServiceNow Trainee (ServiceNow) - August 2023 to October 2023
+- Developed ServiceNow applications using JavaScript and various ServiceNow inbuilt tools such as catalog, form designer, and other platform capabilities.
+- Achieved ServiceNow Certified Application Developer (CAD) certification after completing the training, demonstrating proficiency in ServiceNow development.
 
 ### Projects
 
@@ -33,7 +42,6 @@ I am a dedicated web developer with a strong background in both backend and fron
   - Patients can book appointments, access appointment history, and securely interact with doctors.
   - Implemented robust authentication features and data security measures for patient and doctor interactions.
   - Leveraged Django's ORM for efficient database management and Jinja2 for dynamic template rendering.
-
 
 #### [Beancounter](https://github.com/siddharthjena/Finance-Manager-Webapp)
 - **Technologies:** Python, Django, HTML5, CSS3, MySQL
@@ -56,3 +64,4 @@ I am a dedicated web developer with a strong background in both backend and fron
 - [LinkedIn](https://www.linkedin.com/in/siddharth-jena-28a64424a)
 - [contact ] : 8327723844
 - [E-mail] : siddharthjena2001@gmail.com
+
