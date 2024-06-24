@@ -35,7 +35,7 @@ I am a dedicated web developer with a strong background in both backend and fron
 
 ### Projects
 
-#### [CodeDais (E-Learning Platform)(https://github.com/siddharthjena/CodeDais-E-Learning-Platform-.git))
+#### [CodeDais An E-Learning Platform ](https://github.com/siddharthjena/CodeDais-E-Learning-Platform-.git))
 - **Technologies:** Python, Django, HTML5, CSS3, Bootstrap, MySQL
 - **Description:** 
   - Engineered a comprehensive e-learning platform with a focus on intuitive user experience and robust functionality.
