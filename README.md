@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Siddharth Sankar Jena
 
-### Web Developer | Python & PHP | Django Framework | MySQL | HTML | CSS | JavaScript
+### Web Developer | Python, JAVA | Django Framework | MySQL | HTML | CSS | JavaScript
 
 ---
 
@@ -12,7 +12,7 @@ I am a dedicated web developer with a strong background in both backend and fron
 
 - **Backend Development:**
   - Python
-  - PHP
+  - JAVA
   - Django Framework
 
 - **Database Management:**
