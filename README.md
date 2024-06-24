@@ -26,7 +26,7 @@ I am a dedicated web developer with a strong background in both backend and fron
 ### Internships & Experience
 
 #### Full-stack Web Developer (CodeDais) - August 2023 to April 2024
-- Created projects including a Clinic Management System and a Blogging Application using Python, Django for backend, and HTML5, CSS3, Bootstrap for frontend.
+- Created projects Including a dedicated website for CodeDais and Clinic Management System using Python, Django for backend, and HTML5, CSS3, Bootstrap for frontend.
 - Learned web development using Django and contributed to projects by writing form validation logic, creating views functions for specific purposes, and developing models for users to store their data, assisting senior developers in enhancing project functionality.
 
 #### ServiceNow Trainee (ServiceNow) - August 2023 to October 2023
@@ -34,6 +34,15 @@ I am a dedicated web developer with a strong background in both backend and fron
 - Achieved ServiceNow Certified Application Developer (CAD) certification after completing the training, demonstrating proficiency in ServiceNow development.
 
 ### Projects
+
+#### [CodeDais (E-Learning Platform)](https://github.com/siddharthjena/CodeDais)
+- **Technologies:** Python, Django, HTML5, CSS3, Bootstrap, MySQL
+- **Description:** 
+  - Engineered a comprehensive e-learning platform with a focus on intuitive user experience and robust functionality.
+  - Implemented secure authentication using Django’s built-in system, ensuring user data integrity and protection.
+  - Optimized database interactions through Django ORM for seamless data retrieval and storage.
+  - Facilitated user functionalities including registration, login, course purchases, and personalized dashboard views.
+  - Crafted a user-centric dashboard to dynamically display enrolled courses.
 
 #### [Clinic Management System](https://github.com/siddharthjena/Clinic_WebApplication)
 - **Technologies:** Python, Django, HTML5, CSS3, MySQL
